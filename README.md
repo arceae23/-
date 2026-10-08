@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
 	
 
 	
-	switch(choose){//可以用if函数：if(条件){}
+	switch(choose){
 		int grades;
 	
 		case 1:
