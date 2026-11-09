@@ -1,3 +1,5 @@
+
+<img width="1701" height="1274" alt="QQ20261109-152615" src="https://github.com/user-attachments/assets/812155ea-fa97-4e76-a4e8-a742242cbe8b" />
 #include <stdio.h>
 int grade[5][4];
 
